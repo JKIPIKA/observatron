@@ -1,2 +1,2 @@
 # Observatron
-Demo application focued observability concepts in Kubernetes
+Demo application focued on observability concepts in Kubernetes
